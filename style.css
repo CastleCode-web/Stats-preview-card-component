@@ -1,0 +1,121 @@
+ *{box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(233, 47%, 7%);
+    color: white;
+}
+.image{
+    width: 100%;
+    height: 30vh;
+    border-radius: 10px 10px 0 0;
+    background-position: center;
+    background-size: cover;
+    max-width: 100%;
+    background-image: url("image-header-mobile.jpg");
+}
+.imageoverlay{
+    width: 100%;
+    height: 30vh;
+    background-color: hsla(277, 64%, 61%, 0.5);
+}
+.container{
+    width: 90%;
+   /* display: flex;
+    flex-direction: column;*/
+    margin: 3em auto;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 10px;
+    
+   /* justify-content: center;
+    align-items: center;*/
+}
+.containertext{
+    padding:  2em 2.5em;
+    text-align: center;
+    width: 100%;
+}
+.body{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    letter-spacing: 0.1em;
+    line-height: 1.8em;
+    font-size: 15px;
+    max-width: 350px;
+    font-weight: 400;
+}
+h1{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    max-width: 350px;
+    color: hsl(0, 0%, 100%);
+}
+.childcontainer{
+    padding: 2em 3em;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: -2em;
+    margin-bottom: -2em;
+}
+.large{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+.word{
+    color:hsla(0, 0%, 100%, 0.6) ;
+    text-transform: uppercase;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-top: -1em;
+}
+.items{
+    padding: 0.3em 0;
+    text-align: center;
+    
+}
+
+
+@media all and (min-width: 1000px) and (max-width: 1440px){
+    .containeritems{
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+    }
+    .containertext{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .childcontainer{
+        display: flex;
+        justify-content: space-around;
+        padding: 0em 0em;
+        margin: 0;
+        margin-top: 2em;
+       
+    }
+   .container{
+        margin: 6em auto;
+        width: 80%;
+        height: auto;
+   }
+   .image{
+    width: 100%;
+    height: auto;
+    border-radius: 0px 10px 10px 0;
+    background-position: center;
+    background-size: cover;
+    max-width: 100%;
+    background-image: url("image-header-desktop.jpg");
+}
+.imageoverlay{
+    width: 100%;
+    height: 70vh;
+    background-color: hsla(277, 64%, 61%, 0.5);
+}
+.textelement{
+   text-align: initial;
+   padding-left: 2.5em;
+}
+}
