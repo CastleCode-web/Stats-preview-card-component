@@ -84,7 +84,7 @@ I'm still not very good at using @mediaquery.
 ## Author
 
 
-- Frontend Mentor - @Feyisara2306 (https://www.frontendmentor.io/profile/Feyisara2306)
-- Twitter - @CastleCode_web (https://twitter.com/CastleCode_web)
-- Linkedln - @castlecode (https://www.linkedin.com/in/castlecode/)
+- Frontend Mentor -  (https://www.frontendmentor.io/profile/Feyisara2306)
+- Twitter -  (https://twitter.com/CastleCode_web)
+- Linkedln -  (https://www.linkedin.com/in/castlecode/)
 
