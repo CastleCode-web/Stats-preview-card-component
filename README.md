@@ -77,14 +77,14 @@ I'm still not very good at using @mediaquery.
 
 ### Useful resources
 
-- (https://www.youtube.com/watch?v=jAXF7oS0RB4) - This helped me understand how to create imageoverlay
+(https://www.youtube.com/watch?v=jAXF7oS0RB4) - This helped me understand how to create imageoverlay
 
 
 
 ## Author
 
 
-- Frontend Mentor -(https://www.frontendmentor.io/profile/Feyisara2306)
-- Twitter -(https://twitter.com/CastleCode_web)
-- Linkedln -(https://www.linkedin.com/in/castlecode/)
+- Frontend Mentor (https://www.frontendmentor.io/profile/Feyisara2306)
+- Twitter (https://twitter.com/CastleCode_web)
+- Linkedln (https://www.linkedin.com/in/castlecode/)
 
