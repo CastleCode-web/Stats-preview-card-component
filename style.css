@@ -102,7 +102,7 @@ h1{
    }
    .image{
     width: 100%;
-    height: 65vh;
+    height: auto;
     border-radius: 0px 10px 10px 0;
     background-position: center;
     background-size: cover;
@@ -111,7 +111,7 @@ h1{
 }
 .imageoverlay{
     width: 100%;
-    height: 65vh;
+    height: 70vh;
     background-color: hsla(277, 64%, 61%, 0.5);
 }
 .textelement{
